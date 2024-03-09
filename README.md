@@ -84,7 +84,9 @@ Send({ Target = Morpheus, Data = "Morpheus?" })
 
 #
 
-> Matrix'e devam etmeden önce [bu](https://github.com/ruesandora/AO/blob/main/chatroom.md) dosyaları ayarla Neo.
+>Arkadaşlar burasi baya bi zor ben size yapip dosya atarim ugrasmayin
+>dosyalari benden isteyin dosyalari aldiktan sonra devam edin yada
+>Matrix'e devam etmeden önce [bu](https://github.com/ruesandora/AO/blob/main/chatroom.md) dosyaları ayarla Neo.
 
 <h1 align="center"> Matrix'e dönüş. </h1>
 
@@ -164,7 +166,7 @@ CRED = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc"
 CRED
 .load-blueprint credUtils
 CRED.balance
-
+# burda balance 0 olcak ctrl c ile çıkın manuel gonderiyorlar arada kontrol edersiniz token gelince islemlere devam edersiniz
 # 500k token almışsındır Neo.
 ```
 
